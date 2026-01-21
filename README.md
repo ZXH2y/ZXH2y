@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   
 ![cihuy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlcHpwYzBlaDlvM20xaGxxOGs1MGZuZHNsY2Z6OGN4OHpxc3JwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTnjjJn4pJLFUa0CLP/giphy.gif)
 
+### LANGUAGE
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -31,12 +32,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
--OS
+### OS
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 Windows 11 	![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-- SERVER
+### SERVERS
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)

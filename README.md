@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm ZXH2y 👋
 
 <!--
 **ZXH2y/ZXH2y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **Web Dev || Cyber Security**
+- 🌱 I’m currently learning Web Dev and Penetration Testing
+
+- 😄 😄 😄 😄 😄
+![cihuy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlcHpwYzBlaDlvM20xaGxxOGs1MGZuZHNsY2Z6OGN4OHpxc3JwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTnjjJn4pJLFUa0CLP/giphy.gif)
+

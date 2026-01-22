@@ -1,4 +1,4 @@
-## Hello World! I'm ZXH2y 👋
+
 ![ZXH2y](img/github-header-banner.png)
 <!--
 **ZXH2y/ZXH2y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

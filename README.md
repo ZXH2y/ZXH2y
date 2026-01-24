@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 ![cihuy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlcHpwYzBlaDlvM20xaGxxOGs1MGZuZHNsY2Z6OGN4OHpxc3JwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTnjjJn4pJLFUa0CLP/giphy.gif)
 
-### LANGUAGE
+### LANGUAGE & DB
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)

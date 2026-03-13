@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Web Dev || Cyber Security**
 - 🌱 I’m currently learning Web Dev and Penetration Testing
-- 😄 😄 😄 😄 😄
+- 😄 😄 😄
   
 ![cihuy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlcHpwYzBlaDlvM20xaGxxOGs1MGZuZHNsY2Z6OGN4OHpxc3JwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTnjjJn4pJLFUa0CLP/giphy.gif)
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **Web Dev || Cyber Security**
-- 🌱 I’m currently learning Web Dev and Penetration Testing
+- 🌱 I’m currently learning Web Dev and Penetration Testing on itbox,jadihacker,cyber academy,portswigger,tryhackme,kelasfullstack by codepolitan and other unnamed course
 - 😄 😄 😄
   
 ![cihuy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVlcHpwYzBlaDlvM20xaGxxOGs1MGZuZHNsY2Z6OGN4OHpxc3JwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTnjjJn4pJLFUa0CLP/giphy.gif)
